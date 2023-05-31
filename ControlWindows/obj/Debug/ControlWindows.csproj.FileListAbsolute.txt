@@ -1,0 +1,9 @@
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\bin\Debug\ControlWindows.dll
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\obj\Debug\ControlWindows.csproj.AssemblyReference.cache
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\obj\Debug\ControlWindows.dll
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\obj\Debug\ControlWindows.pdb
+C:\Users\cleri\Desktop\Componentes\C\ControlWindows\bin\Debug\ControlWindows.xml
